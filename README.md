@@ -7,7 +7,7 @@
     <td align="center" width="30%">
       <img src="https://github.com/MrCipher-X/MrCipher-X/blob/main/founder-min.jpeg " width="160" alt="Anbarasu" style="border-radius: 50%;">
       <br><br>
-      <b>[ ANBARASU ]</b>
+      <b>[ ANBARASU.T (Mr.Cipher-X) ]</b>
     </td>
     <td width="70%">
       <h3><code>>_ whoami --verbose</code></h3>
