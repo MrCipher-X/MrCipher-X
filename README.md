@@ -1,65 +1,105 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=header&text=MR.%20CIPHER-X%20%7C%20TECHIECLUB&fontSize=40&fontColor=000000&animation=glitch" alt="Header">
+</div>
 
-<a href="https://techieclub.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=>_INITIATING_SYSTEM...;>_HELLO,+I'M+ANBARASU+[MR.+CIPHER-X];>_FOUNDER+%40+TECHIECLUB;>_THREAT+HUNTER+%26+EXAMINER+[C|THE];>_CYBER-PHYSICAL+%26+AI+ENGINEER" alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<code>███████████████████████████████████████████████████████████</code>
-
-<br><br>
-
-### ⚠️ WARNING: ENTERING HIGH-SECURITY SECTOR ⚠️
-
-*Welcome to the central repository matrix of **Anbarasu (Mr. Cipher-X)**. I am the Founder of **TechieClub** and a Certified Threat Hunter & Examiner (C|THE). My operations operate at the bleeding edge of Offensive Security, Digital Forensics, Artificial Intelligence, and Cyber-Physical Hardware Engineering.*
+<table align="center" style="border: none; background-color: #0d1117;">
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://github.com/MrCipher-X/MrCipher-X/blob/main/founder-min.jpeg " width="160" alt="Anbarasu" style="border-radius: 50%;">
+      <br><br>
+      <b>[ ANBARASU ]</b>
+    </td>
+    <td width="70%">
+      <h3><code>>_ whoami --verbose</code></h3>
+      <p>I am the Founder of <img src="https://github.com/MrCipher-X/MrCipher-X/blob/main/techieclub-logo.png" width="20" align="center"> <b>TechieClub</b> and a Certified Threat Hunter & Examiner <b>[C|THE]</b>.</p>
+      <p>My operations operate at the absolute bleeding edge of <b>Offensive Security, Digital Forensics, Artificial Intelligence, and Cyber-Physical Hardware Engineering.</b></p>
+      <p><i>"Architecting the defence systems of tomorrow."</i></p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<code>███████████████████████████████████████████████████████████</code>
+### 🛡️ Core Competencies & Neural Stack
 
+<p align="center">
+  <b>[>_ ARTIFICIAL INTELLIGENCE & VISION ]</b><br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>[>_ CYBER OPERATIONS & FORENSICS ]</b><br>
+  <img src="https://img.shields.io/badge/Digital_Forensics-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scapy-000000?style=for-the-badge&logo=python&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Volatility_Framework-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIEM_&_SOC-005571?style=for-the-badge&logo=splunk&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>[>_ HARDWARE FORGE & IOT ]</b><br>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+<br>
+
+### 📂 The Arsenal (Proprietary Operations)
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <b>👁️ <a href="https://github.com/MrCipher-X/CrimeNet-AI-Identification">CrimeNet AI</a></b><br>
+      Real-time Criminal Identification & Surveillance powered by CNNs and YOLOv8.
+    </td>
+    <td width="50%">
+      <b>🛡️ <a href="https://github.com/MrCipher-X/SentinAI-Defence-Grid">SentinAI Defence Grid</a></b><br>
+      Hybrid IDS/IPS utilizing Scapy and IsolationForest ML for real-time threat neutralization.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🔌 <a href="https://github.com/MrCipher-X/Sentinel-X">Sentinel-X</a></b><br>
+      IoT Cyber-Physical Anti-Surveillance featuring EMF auditing and 802.11 Deauth sniffing.
+    </td>
+    <td width="50%">
+      <b>💾 <a href="https://github.com/MrCipher-X/SecureGate-Pro-Forensics">SecureGate Pro</a></b><br>
+      AI-enhanced Digital Forensic Kiosk with Kernel-Level Write Blockers & Threat Sterilization.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🛑 <a href="https://github.com/MrCipher-X/spyUSB-Defence-System">spyUSB Endpoint Defence</a></b><br>
+      DNN-driven USB malware detection coupled with Tokenization and CloudConceal backups.
+    </td>
+    <td width="50%">
+      <b>⛓️ <a href="https://github.com/MrCipher-X/Decentralized-Photo-Protector">Photo Protector (Web3)</a></b><br>
+      Blockchain & OpenCV framework for dynamic facial ROI privacy enforcement.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 📊 Tactical Telemetry
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrCipher-X&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 <br>
 
-### 🛠️ Core System Modules (Tech Stack)
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash&theme=dark" alt="OS"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,mysql&theme=dark" alt="Languages"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,opencv,git&theme=dark" alt="Hardware & AI"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrCipher-X&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=8A2BE2&text_color=ffffff&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <br>
 
-### 📂 The Arsenal (Featured Classified Operations)
-
-Below is a curated index of my high-level security architectures and research projects. *(Note: Proprietary source code is restricted. Refer to the repositories for IEEE-standard architectural documentation.)*
-
-* 🛡️ **[SentinAI Defence Grid](https://github.com/MrCipher-X/SentinAI-Defence-Grid):** An AI-Driven SOC toolkit & Hybrid IDS/IPS utilizing Scapy and IsolationForest ML for real-time threat neutralization.
-* 👁️ **[CrimeNet AI](https://github.com/MrCipher-X/CrimeNet-AI-Identification):** Real-time Criminal Identification & Surveillance system powered by Convolutional Neural Networks (CNN) and YOLOv8.
-* 🔌 **[Sentinel-X](https://github.com/MrCipher-X/Sentinel-X):** IoT-Based Cyber-Physical Anti-Surveillance multi-tool featuring EMF auditing and 802.11 Deauth packet sniffing via ESP32.
-* 💾 **[SecureGate Pro Forensics](https://github.com/MrCipher-X/SecureGate-Pro-Forensics):** AI-enhanced Digital Forensic Kiosk with Kernel-Level Write Blockers and Shannon Entropy heuristic threat sterilization.
-* 🛑 **[spyUSB Endpoint Defence](https://github.com/MrCipher-X/spyUSB-Defence-System):** Deep Neural Network (DNN) driven USB malware detection coupled with Tokenization and encrypted CloudConceal backups.
-* ⛓️ **[Decentralized Photo Protector](https://github.com/MrCipher-X/Decentralized-Photo-Protector):** Web3 & Deep Learning framework utilizing Smart Contracts and OpenCV for dynamic facial ROI privacy enforcement.
-
-<br>
-
-### 📊 System Telemetry & Metrics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrCipher-X&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=8A2BE2&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrCipher-X&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=8A2BE2&text_color=ffffff" alt="GitHub Streak" />
-</div>
-
-<br>
-
----
-
-<div align="center">
-  <i>"Security is not a product, but a process." — TechieClub</i><br><br>
-  <b>[ <a href="mailto:havocarasu4@gmail.com">ESTABLISH SECURE COMMS (EMAIL)</a> ]</b><br><br>
-  <b>[ End of Transmission ]</b>
+  <b>[ <a href="mailto:anbarasu.t.cybersec@gmail.com">ESTABLISH SECURE COMMS</a> ]</b><br><br>
 </div>
